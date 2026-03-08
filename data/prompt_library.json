@@ -1,0 +1,17 @@
+{
+  "eye_bag": {
+    "prompt": "raw photo, 2k, hyper-realistic, soft lighting, natural skin texture, remove the yellow mask overlay, eliminate eye bags, smooth under-eye area, blend skin tone seamlessly",
+    "width": 1728,
+    "height": 2304
+  },
+  "nasolabial_fold": {
+    "prompt": "raw photo, 2k, hyper-realistic, soft lighting, natural skin texture, remove the yellow mask overlay, eliminate nasolabial folds, smooth skin area, blend skin tone seamlessly",
+    "width": 1728,
+    "height": 2304
+  },
+  "all": {
+    "prompt": "raw photo, 2k, hyper-realistic, soft lighting, natural skin texture, remove the yellow mask overlay, eliminate eye bags, smooth under-eye area, blend skin tone seamlessly",
+    "width": 1728,
+    "height": 2304
+  }
+}

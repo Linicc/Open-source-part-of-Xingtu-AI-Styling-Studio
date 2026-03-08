@@ -1,0 +1,63 @@
+# 核心Web框架
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+# 数据处理和科学计算
+numpy
+pandas
+opencv-python
+pillow
+scipy
+
+# 计算机视觉和深度学习
+torch
+torchvision
+ultralytics
+yolov8==0.0.1
+# dlib==19.24.2
+
+# NLP和语言模型
+transformers
+tokenizers
+requests==2.31.0
+
+# LoRA微调
+peft==0.7.1
+
+# 数据库和持久化
+sqlalchemy==2.0.23
+alembic==1.12.1
+# sqlite3  # 内置，不需要安装
+
+# 异步和并发
+aiofiles
+asyncio-contextmanager
+
+# 日志和监控
+python-logging-loki
+
+# 测试框架
+pytest
+pytest-asyncio
+pytest-cov
+pytest-xdist
+
+# 代码质量工具
+black
+isort
+flake8
+mypy
+pylint
+
+# 文档生成
+sphinx
+sphinx-rtd-theme
+
+# 其他工具
+python-dotenv
+tqdm
+click
+pyyaml
